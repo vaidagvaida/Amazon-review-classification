@@ -1,4 +1,4 @@
-# Amazon_review_classification
+# Amazon-review-classification
 
 In collaboration with Gediminas Sadaunykas
 
